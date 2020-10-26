@@ -4,11 +4,11 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 # Arquivos e Links
-# arq = open('Enancib_2015.ttl', 'w')
-arq = open('Enancib_2016.ttl', 'w')
-# arq = open('Enancib_2017.ttl', 'w')
-# arq = open('Enancib_2018.ttl', 'w')
-# arq = open('Enancib_2019.ttl', 'w')
+# arq = open('Enancib_2015.ttl', 'w', encoding='utf-8')
+arq = open('Enancib_2016.ttl', 'w', encoding='utf-8')
+# arq = open('Enancib_2017.ttl', 'w', encoding='utf-8')
+# arq = open('Enancib_2018.ttl', 'w', encoding='utf-8')
+# arq = open('Enancib_2019.ttl', 'w', encoding='utf-8')
 
 # ocs: str = "http://www.ufpb.br/evento/index.php/enancib2015/enancib2015/schedConf/presentations"
 ocs: str = "http://www.ufpb.br/evento/index.php/enancib2016/enancib2016/schedConf/presentations"
@@ -60,10 +60,10 @@ for name in texto:
             else:
                 lista.append('')
         a += 1
-    try:
-        arq.writelines(lista)
-    except UnicodeEncodeError:
-        print('Erro Unicode')
+    #try:
+    arq.writelines(lista)
+    #except UnicodeEncodeError:
+        #print('Erro Unicode')
 
 # print(b, a)
 arq.close()
