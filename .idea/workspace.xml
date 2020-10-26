@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01cf99da-c1b1-498e-b6a8-987244819b92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PUB-Santarem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enancib_2019_04_.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Enancib_2019.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2015.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2015.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OCS/Enancib_2016.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2016.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2017.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2017.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2018.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2018.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2019_04_.ttl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OCS/enancib.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/enancib.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +23,24 @@
   </component>
   <component name="JupyterTrust" id="be1805b0-9a39-46ec-85a5-e40f7b30298f" />
   <component name="ProjectId" id="1jQ1PNhPvD6vvpD7aKNtXxJntQe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -68,39 +82,43 @@
       <updated>1603721476883</updated>
       <workItem from="1603721478037" duration="43000" />
       <workItem from="1603721689374" duration="1459000" />
+      <workItem from="1603723294280" duration="4601000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Plugins" timestamp="1603722889607">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="25" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1603722889607" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1603723162944">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1603728805073">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603723162944" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1603723162944">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603728805073" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1603728805072">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603723162944" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1603723162944">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1603728805072">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603723162944" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1603723162944">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1603728805072">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603723162944" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1603721770943">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603721770943" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib.coverage" NAME="enancib Coverage Results" MODIFIED="1603722568370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib.coverage" NAME="enancib Coverage Results" MODIFIED="1603728805042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
   </component>
 </project>

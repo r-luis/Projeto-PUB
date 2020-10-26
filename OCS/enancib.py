@@ -5,13 +5,13 @@ from bs4 import BeautifulSoup
 
 # Arquivos e Links
 # arq = open('Enancib_2015.ttl', 'w', encoding='utf-8')
-arq = open('Enancib_2016.ttl', 'w', encoding='utf-8')
+# arq = open('Enancib_2016.ttl', 'w', encoding='utf-8')
 # arq = open('Enancib_2017.ttl', 'w', encoding='utf-8')
 # arq = open('Enancib_2018.ttl', 'w', encoding='utf-8')
 # arq = open('Enancib_2019.ttl', 'w', encoding='utf-8')
 
 # ocs: str = "http://www.ufpb.br/evento/index.php/enancib2015/enancib2015/schedConf/presentations"
-ocs: str = "http://www.ufpb.br/evento/index.php/enancib2016/enancib2016/schedConf/presentations"
+# ocs: str = "http://www.ufpb.br/evento/index.php/enancib2016/enancib2016/schedConf/presentations"
 # ocs: str = "http://enancib.marilia.unesp.br/index.php/XVIII_ENANCIB/ENANCIB/schedConf/presentations"
 # ocs: str = "http://enancib.marilia.unesp.br/index.php/XIX_ENANCIB/xixenancib/schedConf/presentations"
 # ocs: str = "https://conferencias.ufsc.br/index.php/enancib/2019/schedConf/presentations"
@@ -37,11 +37,11 @@ for name in texto:
     for x in linhas:
         for link in x.find_all('a'):
             if 'href' in link.attrs:
-                print(link.attrs['href'])
-                html2 = urlopen(link.attrs['href'])
+                print(link.attrs['href'].replace('/view/', '/viewPaper/'))
+                html2 = urlopen(link.attrs['href'].replace('/view/', '/viewPaper/'))
                 bsObj2 = BeautifulSoup(html2, 'html.parser')
                 metadados = bsObj2.find_all('meta')
-                linha = '<' + link.attrs['href'] + '> <dc:isPartOf> <' + ocs + '>'
+                linha = '<' + link.attrs['href'] + '> <dc:isPartOf> <' + ocs + '> \n'
                 lista.append(linha)
                 for metas in metadados:
                     try:
