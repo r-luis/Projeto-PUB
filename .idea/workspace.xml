@@ -2,21 +2,450 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01cf99da-c1b1-498e-b6a8-987244819b92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enancib_2019_04_.ttl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OCS/Enancib_2019.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1001-492.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1004-937.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1006-869.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1009-493.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1011-626.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1012-709.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1020-627.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1021-630.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1025-494.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1027-527.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1032-568.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1034-495.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1036-569.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1039-496.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1050-938.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1051-571.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1055-852.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1058-497.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1059-631.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1061-710.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1063-868.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1076-893.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1077-570.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1080-682.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1081-939.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1084-498.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1085-956.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1086-528.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1089-529.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1095-711.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1096-867.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1102-683.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1105-266.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1106-572.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1107-600.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1108-573.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1109-574.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1110-684.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1111-601.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1112-575.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1115-712.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1119-499.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1122-853.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1125-940.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1126-866.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1130-965.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1131-500.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1133-806.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1136-854.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1137-865.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1139-629.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1143-501.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1144-628.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1146-941.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1147-807.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1148-808.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1150-960.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1154-856.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1155-576.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1156-809.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1157-577.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1162-966.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1163-578.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1166-942.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1169-895.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1172-502.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1173-503.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1174-943.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1178-810.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1179-713.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1180-685.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1181-530.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1182-944.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1183-945.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1184-602.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1187-579.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1188-632.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1189-714.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1194-633.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1195-581.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1198-686.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1203-811.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1206-946.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1209-857.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1211-858.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1212-896.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1213-910.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1218-816.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1222-947.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1224-859.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1228-687.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1229-817.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1230-634.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1231-860.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1235-580.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1236-818.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1237-949.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1238-582.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1239-504.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1240-635.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1242-715.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1243-819.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1247-897.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1250-820.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1252-716.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1256-717.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1257-636.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1258-583.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1259-821.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1260-950.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1262-971.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1264-951.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1265-531.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1266-637.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1268-505.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1274-604.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1276-952.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1278-974.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1282-638.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1283-639.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1286-605.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1287-640.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1290-823.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1293-641.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1301-506.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1304-642.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1305-606.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1306-824.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1307-507.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1308-643.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1309-718.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1311-826.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1312-1021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1315-719.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1317-532.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1320-720.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1324-911.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1326-861.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1327-645.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1328-607.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1329-508.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1331-898.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1333-912.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1337-584.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1339-721.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1340-608.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1341-722.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1342-688.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1343-689.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1345-509.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1346-958.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1348-533.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1349-723.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1352-646.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1356-647.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1358-648.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1359-534.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1361-829.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1369-724.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1371-913.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1372-899.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1374-830.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1378-725.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1381-954.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1386-690.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1387-862.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1388-831.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1390-649.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1392-863.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1395-510.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1403-585.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1405-955.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1406-832.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1409-833.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1412-900.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1416-535.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1417-536.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1421-650.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1422-537.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1427-651.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1428-691.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1434-652.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1437-901.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1444-948.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1446-726.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1449-957.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_1451-835.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_456-656.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_458-916.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_462-657.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_463-467.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_465-658.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_468-586.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_472-659.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_474-692.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_475-511.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_477-343.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_478-917.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_481-771.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_482-693.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_487-886.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_489-975.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_490-609.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_491-918.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_492-539.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_493-468.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_495-769.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_499-512.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_500-772.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_502-773.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_503-540.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_505-919.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_507-885.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_509-774.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_510-469.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_513-768.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_514-967.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_515-813.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_518-884.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_527-513.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_531-514.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_532-515.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_536-694.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_538-661.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_542-516.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_545-470.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_546-517.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_547-920.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_548-921.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_550-775.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_551-587.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_553-969.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_556-472.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_557-662.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_558-695.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_560-883.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_565-770.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_566-610.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_567-611.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_568-776.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_570-814.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_571-518.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_576-612.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_584-882.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_587-663.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_588-613.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_589-614.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_592-922.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_593-777.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_598-923.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_599-473.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_602-905.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_604-973.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_605-815.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_609-881.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_612-664.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_615-972.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_616-474.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_619-908.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_622-589.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_623-696.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_627-961.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_629-475.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_631-880.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_635-590.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_636-812.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_637-976.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_638-476.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_639-591.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_645-616.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_648-617.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_649-825.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_650-665.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_654-778.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_657-519.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_658-592.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_660-836.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_664-968.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_665-477.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_669-666.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_670-618.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_676-520.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_677-593.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_678-478.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_682-521.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_689-779.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_690-594.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_692-925.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_693-479.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_694-879.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_698-480.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_702-837.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_703-926.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_704-962.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_705-595.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_706-780.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_710-596.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_711-781.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_712-927.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_721-878.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_723-481.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_727-619.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_730-782.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_733-482.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_734-1022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_735-127.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_736-483.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_738-667.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_742-552.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_745-928.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_749-784.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_750-929.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_752-522.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_754-484.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_756-485.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_757-785.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_758-486.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_761-697.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_762-930.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_763-786.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_765-620.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_766-838.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_767-668.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_770-877.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_773-787.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_775-597.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_776-487.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_779-523.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_781-698.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_783-699.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_786-839.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_791-700.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_792-876.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_793-840.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_796-902.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_798-701.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_799-841.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_803-788.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_813-702.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_816-875.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_817-669.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_818-789.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_820-670.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_821-874.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_826-488.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_827-524.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_831-621.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_833-671.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_834-672.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_835-703.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_836-887.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_837-963.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_841-904.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_843-903.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_844-873.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_845-842.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_847-872.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_849-790.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_850-622.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_862-489.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_863-525.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_867-871.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_868-704.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_871-673.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_872-791.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_880-843.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_881-931.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_882-844.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_884-705.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_885-792.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_886-793.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_887-674.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_891-870.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_892-845.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_893-846.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_899-964.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_902-675.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_904-676.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_905-677.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_906-706.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_907-678.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_908-888.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_909-679.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_912-847.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_916-623.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_917-932.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_923-794.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_924-795.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_926-796.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_927-598.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_929-933.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_930-889.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_931-934.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_932-909.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_933-797.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_934-848.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_937-680.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_938-935.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_939-890.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_943-798.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_944-799.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_946-800.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_947-565.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_950-681.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_951-707.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_952-891.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_953-624.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_956-801.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_964-599.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_965-892.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_969-490.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_971-708.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_974-849.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_978-802.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_980-851.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_983-625.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_984-803.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_986-804.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_989-936.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_990-566.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_993-567.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_994-526.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/Arquivos/Enancib_2019_998-491.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/enancib-final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCS/enancib-pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2015.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2015.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2016.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2016.ttl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OCS/Enancib_2017.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2017.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2018.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2018.ttl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2019_04_.ttl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCS/enancib.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/enancib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Enancib_2019.ttl" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/Enancib_2019.ttl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Scrap_tabela.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/Scrap_tabela_novo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCS/enancib.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCS/enancib-metadados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,8 +472,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="enancib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.enancib-final">
+    <configuration name="Scrap_tabela_novo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projeto-PUB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +486,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCS/enancib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCS/Scrap_tabela_novo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enancib-final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-PUB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCS/enancib-final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enancib-metadados (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-PUB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCS/enancib-metadados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enancib-metadados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-PUB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\there\Documents\MeusProjetosGit\Projeto-PUB\OCS\enancib-metadados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enancib-pdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-PUB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCS/enancib-pdf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +585,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.enancib" />
+        <item itemvalue="Python.enancib-final" />
+        <item itemvalue="Python.enancib-metadados (1)" />
+        <item itemvalue="Python.Scrap_tabela_novo" />
+        <item itemvalue="Python.enancib-metadados" />
+        <item itemvalue="Python.enancib-pdf" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +603,9 @@
       <updated>1603721476883</updated>
       <workItem from="1603721478037" duration="43000" />
       <workItem from="1603721689374" duration="1459000" />
-      <workItem from="1603723294280" duration="4601000" />
+      <workItem from="1603723294280" duration="19845000" />
+      <workItem from="1603807743045" duration="1876000" />
+      <workItem from="1603812110486" duration="7057000" />
     </task>
     <servers />
   </component>
@@ -97,28 +620,32 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="25" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1603722889607" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1603728805073">
+    <state width="1323" height="133" key="GridCell.Tab.0.bottom" timestamp="1603825942500">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603728805073" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1603728805072">
+    <state width="1323" height="133" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603825942500" />
+    <state width="1323" height="133" key="GridCell.Tab.0.center" timestamp="1603825942500">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1603728805072">
+    <state width="1323" height="133" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603825942500" />
+    <state width="1323" height="133" key="GridCell.Tab.0.left" timestamp="1603825942500">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1603728805072">
+    <state width="1323" height="133" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603825942500" />
+    <state width="1323" height="133" key="GridCell.Tab.0.right" timestamp="1603825942500">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603728805072" />
+    <state width="1323" height="133" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603825942500" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1603721770943">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1603721770943" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib.coverage" NAME="enancib Coverage Results" MODIFIED="1603728805042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib.coverage" NAME="enancib Coverage Results" MODIFIED="1603751341172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib_final.coverage" NAME="enancib-final Coverage Results" MODIFIED="1603819664116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$Scrap_tabela_novo.coverage" NAME="Scrap_tabela_novo Coverage Results" MODIFIED="1603813734769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib_metadados__1_.coverage" NAME="enancib-metadados (1) Coverage Results" MODIFIED="1603818851505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
+    <SUITE FILE_PATH="coverage/Projeto_PUB$enancib_pdf.coverage" NAME="enancib-pdf Coverage Results" MODIFIED="1603751339439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCS" />
   </component>
 </project>
