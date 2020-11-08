@@ -26,14 +26,14 @@ def baixararquivo(url,nomearquivo):
     return True
 
 
-nome ="Enancib_2019"
+nome ="Enancib_2015"
 #arq = open(nome+'.ttl', 'w', encoding='utf-8')
 
-# ocs = "http://www.ufpb.br/evento/index.php/enancib2015/enancib2015/schedConf/presentations"
+ocs = "https://www.ufpb.br/evento/index.php/enancib2015/enancib2015/schedConf/presentations"
 # ocs = "http://www.ufpb.br/evento/index.php/enancib2016/enancib2016/schedConf/presentations"
 # ocs = "http://enancib.marilia.unesp.br/index.php/XVIII_ENANCIB/ENANCIB/schedConf/presentations"
 # ocs = "http://enancib.marilia.unesp.br/index.php/XIX_ENANCIB/xixenancib/schedConf/presentations"
-ocs = "https://conferencias.ufsc.br/index.php/enancib/2019/schedConf/presentations"
+# ocs = "https://conferencias.ufsc.br/index.php/enancib/2019/schedConf/presentations"
 
 html = urlopen(ocs)
 bsObj = BeautifulSoup(html, 'html.parser')
