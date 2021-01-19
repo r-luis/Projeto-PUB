@@ -2,6 +2,21 @@ from urllib.request import urlopen
 from urllib.error import URLError
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
+import requests
+
+
+def baixadireto(url, nomearquivo):
+    """
+    Faz o download direto do arquivo PDF
+    e coloca direto no diretório que é mostrado.
+    """
+    nomearquivo = nomearquivo.replace("/", "-")
+    r = requests.get(url)
+    print(nomearquivo, '-', url)
+    with open('Arquivos/' + nomearquivo + '.pdf', 'wb') as pdf:
+        for chunk in r.iter_content(chunk_size=2048):
+            if chunk:
+                pdf.write(chunk)
 
 
 def abrirSite(s):
@@ -31,13 +46,13 @@ def metadadosColeta(linkinicial, metad):
             except:
                 pass
 
-
+nome = 'rebecin'
 links = 'https://portal.abecin.org.br/rebecin/issue/view/33'  # 3.1.2.4
-
 bs = abrirSite(links)
-
 secoes = bs.find_all('div', {'class': 'issue-toc-section'})
+pdfs = bs.find_all('div', {'class': 'article-summary-galleys'})
 
+# Coleta dos links dos artigos
 link_artigos = []
 
 for secao in secoes:
@@ -49,6 +64,19 @@ for secao in secoes:
 print('@prefix dc: <http://purl.org/dc/elements/1.1/> .')
 for link in link_artigos:
     artigo = abrirSite(link)
+
     meta_artigo = artigo.find_all('meta')
     metadadosColeta(link, meta_artigo)
+    # Coletando as referências
+    ref = artigo.find('div', {'class': 'article-details-references-value'}).get_text().split('\n')
+    for f in ref:
+        if len(f.strip()) == 0:
+            pass
+        else:
+            print(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'")
 
+# Coleta dos PDF's
+for pdf in pdfs:
+    link_download = pdf.find('a')['href'].replace('view', 'download')
+    nome_arq = link_download.split('/download/')[1].replace('/', '-')
+    baixadireto(link_download, nome + '_' + nome_arq)
