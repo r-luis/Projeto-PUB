@@ -33,7 +33,7 @@ def abrirSite(s):
     return BeautifulSoup(html, 'html.parser')
 
 
-def metadadosColeta(linkinicial, metad):
+def metadadosColeta(linkinicial, metad, arquivo):
     """Essa função coleta os metadados de um artigo (testado no OJS 3.1.2.1, 2.4.8.0)
     metad => a variável que contém todos os metadados
     Ex: variável = bs.find_all('meta')
@@ -43,10 +43,13 @@ def metadadosColeta(linkinicial, metad):
         if 'content' in m.attrs:
             try:
                 print(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'")
+                arquivo.write(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'\n")
             except:
                 pass
 
 nome = 'em_questao'
+arq = open(nome + '.ttl', 'w', encoding='utf-8')
+
 links = 'https://seer.ufrgs.br/EmQuestao/issue/view/4213/showToc'  # 2.4.8.0
 bs = abrirSite(links)
 tabela = bs.find('div', {'id': 'content'}).find_all('table', {'class': 'tocArticle'})
@@ -63,7 +66,7 @@ for secao in tabela:
 for link in link_artigos:
     artigo = abrirSite(link)
     meta_artigo = artigo.find_all('meta')
-    metadadosColeta(link, meta_artigo)
+    metadadosColeta(link, meta_artigo, arq)
 
 # Coleta dos PDF's
 for pdf in pdfs:

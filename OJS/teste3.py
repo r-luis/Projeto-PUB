@@ -33,7 +33,7 @@ def abrirSite(s):
     return BeautifulSoup(html, 'html.parser')
 
 
-def metadadosColeta(linkinicial, metad):
+def metadadosColeta(linkinicial, metad, arquivo):
     """Essa função coleta os metadados de um artigo (testado no OJS 3.1.2.1, 2.4.8.0)
     metad => a variável que contém todos os metadados
     Ex: variável = bs.find_all('meta')
@@ -43,10 +43,13 @@ def metadadosColeta(linkinicial, metad):
         if 'content' in m.attrs:
             try:
                 print(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'")
+                arquivo.write(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'\n")
             except:
                 pass
 
 nome = 'rebecin'
+arq = open(nome + '.ttl', 'w', encoding='utf-8')
+
 links = 'https://portal.abecin.org.br/rebecin/issue/view/33'  # 3.1.2.4
 bs = abrirSite(links)
 secoes = bs.find_all('div', {'class': 'issue-toc-section'})
@@ -66,15 +69,17 @@ for link in link_artigos:
     artigo = abrirSite(link)
 
     meta_artigo = artigo.find_all('meta')
-    metadadosColeta(link, meta_artigo)
+    metadadosColeta(link, meta_artigo, arq)
     # Coletando as referências
     ref = artigo.find('div', {'class': 'article-details-references-value'}).get_text().split('\n')
     for f in ref:
         if len(f.strip()) == 0:
             pass
         else:
-            print(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'")
+            print(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'\n")
+            arq.write(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'\n")
 
+arq.close()
 # Coleta dos PDF's
 for pdf in pdfs:
     link_download = pdf.find('a')['href'].replace('view', 'download')

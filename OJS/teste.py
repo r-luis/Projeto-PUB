@@ -33,7 +33,7 @@ def baixadireto(url, nomearquivo):
                 pdf.write(chunk)
 
 
-def metadadosColeta(linkinicial, metad):
+def metadadosColeta(linkinicial, metad, arquivo):
     """Essa função coleta os metadados de um artigo (testado no OJS 3.1.2.1)
     linkinicial => o link do artigo, assim a função pode escrever os metadados na forma correta
     metad => a variável que contém todos os metadados
@@ -44,11 +44,14 @@ def metadadosColeta(linkinicial, metad):
         if 'content' in m.attrs:
             try:
                 print(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'")
+                arquivo.write(f"<{linkinicial}> <{m.attrs['name'].replace('DC', 'dc')}> '{m.attrs['content']}'\n")
             except:
                 pass
 
 
 nome = 'info_em_pauta'
+arq = open(nome + '.ttl', 'w', encoding='utf-8')
+
 links = 'http://www.periodicos.ufc.br/informacaoempauta/issue/view/986'  # 3.1.2.1
 bs = abrirSite(links)
 meta = bs.find_all('meta')
@@ -68,7 +71,7 @@ print('@prefix dc: <http://purl.org/dc/elements/1.1/> .')
 for link in link_artigos:
     artigo = abrirSite(link)
     meta_artigo = artigo.find_all('meta')
-    metadadosColeta(link, meta_artigo)
+    metadadosColeta(link, meta_artigo, arq)
     # Coletando as referências
     ref = artigo.find('div', {'class': 'item references'}).find('div').get_text().split('\n')
     for f in ref:
@@ -76,6 +79,7 @@ for link in link_artigos:
             pass
         else:
             print(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'")
+            arq.write(f"<{link}> <dc.bibliographicCitation> '{f.strip()}'\n")
 
 # Coleta dos PDF's
 for pdf in pdfs:
