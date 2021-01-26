@@ -64,7 +64,7 @@ for link in abrir_artigos:
         #print((site + link['href']))
 
 # Coleta os metadados, Baixa os PDF's e troca de página
-#while True:
+# while True:
 for p in range(0, 10):
     todos_links = tabela_artigos.find_all('div', 'row ds-artifact-item')
     for link in todos_links:
@@ -86,6 +86,4 @@ for p in range(0, 10):
         #print(next_page)
     except:
         break
-
-# Coletando os links dos artigos e abrindo para coletar seus metadados
 
